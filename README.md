@@ -19,7 +19,7 @@ The idea is to show a conceptual proof of all these technologies:
 
 STEPS:
 
-1) Create a Github repository
+1) Fork this Github repository
 2) Create an AWS EC2 instance. Recommended settings:
 
 - AMI: Ubuntu Server 26.04 LTS
